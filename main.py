@@ -1,1 +1,3 @@
-# main.py
+# main.p
+
+print('hello world')
